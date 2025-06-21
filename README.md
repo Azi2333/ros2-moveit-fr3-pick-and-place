@@ -26,3 +26,7 @@ This project implements an autonomous box-stacking system using the Franka Emika
 - `fr3_moveit_config`
 - `franka_description`
 - `ros_gz_bridge` (for Gazebo <-> ROS2 communication)
+
+## video
+
+https://www.bilibili.com/video/BV1FiNLzkERb/?vd_source=c1da2cac35f64bc74121091ae2ad3517
