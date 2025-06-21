@@ -18,7 +18,6 @@ This project implements an autonomous box-stacking system using the Franka Emika
 - Launch script sets up FR3, controllers, Gazebo world, and bridge
 - FSM-based execution: pick → move → stack → repeat
 
-```
 
 ## 📦 Dependencies
 
@@ -27,5 +26,3 @@ This project implements an autonomous box-stacking system using the Franka Emika
 - `fr3_moveit_config`
 - `franka_description`
 - `ros_gz_bridge` (for Gazebo <-> ROS2 communication)
-
-
