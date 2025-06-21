@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating lab4_pkg.egg-info
+writing lab4_pkg.egg-info/PKG-INFO
+writing dependency_links to lab4_pkg.egg-info/dependency_links.txt
+writing entry points to lab4_pkg.egg-info/entry_points.txt
+writing requirements to lab4_pkg.egg-info/requires.txt
+writing top-level names to lab4_pkg.egg-info/top_level.txt
+writing manifest file 'lab4_pkg.egg-info/SOURCES.txt'
+reading manifest file 'lab4_pkg.egg-info/SOURCES.txt'
+writing manifest file 'lab4_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/lib/python3.10/site-packages/lab4-pkg.egg-link (link to .)
+Installing pnp_loop script to /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/lib/lab4_pkg
+
+Installed /home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg
+running symlink_data
+creating /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/ament_index
+creating /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/ament_index/resource_index
+creating /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg/resource/lab4_pkg -> /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg/package.xml -> /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/lab4_pkg

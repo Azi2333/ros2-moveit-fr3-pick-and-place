@@ -1,0 +1,24 @@
+[0.535s] Invoking command in '/home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg': PYTHONPATH=/home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg/build --no-deps symlink_data
+[0.749s] running develop
+[0.896s] running egg_info
+[0.896s] creating lab4_pkg.egg-info
+[0.897s] writing lab4_pkg.egg-info/PKG-INFO
+[0.897s] writing dependency_links to lab4_pkg.egg-info/dependency_links.txt
+[0.897s] writing entry points to lab4_pkg.egg-info/entry_points.txt
+[0.897s] writing requirements to lab4_pkg.egg-info/requires.txt
+[0.898s] writing top-level names to lab4_pkg.egg-info/top_level.txt
+[0.898s] writing manifest file 'lab4_pkg.egg-info/SOURCES.txt'
+[0.899s] reading manifest file 'lab4_pkg.egg-info/SOURCES.txt'
+[0.899s] writing manifest file 'lab4_pkg.egg-info/SOURCES.txt'
+[0.900s] running build_ext
+[0.900s] Creating /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/lib/python3.10/site-packages/lab4-pkg.egg-link (link to .)
+[0.901s] Installing pnp_loop script to /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/lib/lab4_pkg
+[0.901s] 
+[0.901s] Installed /home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg
+[0.901s] running symlink_data
+[0.902s] creating /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/ament_index
+[0.902s] creating /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/ament_index/resource_index
+[0.902s] creating /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/ament_index/resource_index/packages
+[0.902s] symbolically linking /home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg/resource/lab4_pkg -> /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/ament_index/resource_index/packages
+[0.902s] symbolically linking /home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg/package.xml -> /home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/share/lab4_pkg
+[0.922s] Invoked command in '/home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg' returned '0': PYTHONPATH=/home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/azi888/rf_ws/src/lab4_pkg/install/lab4_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/azi888/rf_ws/src/lab4_pkg/build/lab4_pkg/build --no-deps symlink_data

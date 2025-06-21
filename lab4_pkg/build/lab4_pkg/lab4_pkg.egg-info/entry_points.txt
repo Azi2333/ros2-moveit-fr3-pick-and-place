@@ -1,0 +1,3 @@
+[console_scripts]
+pnp_loop = lab4_pkg.pnp_loop:main
+
